@@ -82,7 +82,7 @@
 <body>
   <header>
     <!-- Logo et titre -->
-    <img src="logo.jpg" alt="Logo Dimby Collection">
+    <img src="https://github.com/dimbycollection/dimbycollection.git/logo.jpg" alt="Logo Dimby Collection">
     <h1>Dimby Collection</h1>
   </header>
   
