@@ -128,7 +128,7 @@
       <p>Découvrez quelques-unes de nos réalisations :</p>
       <div class="gallery">
         <!-- Remplacez les chemins et les attributs alt par ceux de vos images -->
-        <img src="images/product1.jpg" alt="Exemple de tenue de Dimby Collection">
+        <img src="[images/product1.jpg](https://github.com/dimbycollection/dimbycollection/blob/main/toge.jpg)" alt="Exemple de tenue de Dimby Collection">
         <img src="images/product2.jpg" alt="Exemple de blouse de Dimby Collection">
         <img src="images/product3.jpg" alt="Uniforme scolaire Dimby Collection">
       </div>
