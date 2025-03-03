@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -82,7 +83,7 @@
 <body>
   <header>
     <!-- Logo et titre -->
-    <img src="https://github.com/dimbycollection/dimbycollection.git/logo.jpg" alt="Logo Dimby Collection">
+    <img src="images/logo.jpg" alt="Logo Dimby Collection">
     <h1>Dimby Collection</h1>
   </header>
   
@@ -104,14 +105,14 @@
     </section>
     
     <!-- À propos -->
-    <section id="apropos">
+  <section id="apropos">
       <h2>À propos</h2>
       <p>Dimby Collection est une entreprise dédiée à la fabrication d'uniformes scolaires, de blouses et de tenues de stage. Notre expertise nous permet de créer des produits confortables, résistants et personnalisables pour répondre aux exigences de chaque établissement.</p>
       <p>Petit détail sympa : notre chien se trouve actuellement à Antsirabe, Madagascar, pour nous tenir compagnie lors de nos déplacements !</p>
     </section>
     
     <!-- Services -->
-    <section id="services">
+   <section id="services">
       <h2>Services</h2>
       <ul>
         <li>Fabrication d'uniformes scolaires sur mesure</li>
@@ -122,7 +123,7 @@
     </section>
     
     <!-- Galerie -->
-    <section id="galerie">
+  <section id="galerie">
       <h2>Galerie</h2>
       <p>Découvrez quelques-unes de nos réalisations :</p>
       <div class="gallery">
@@ -146,5 +147,4 @@
     <p>&copy; 2025 Dimby Collection. Tous droits réservés.</p>
   </footer>
 </body>
-                   </html>
-                   
+</html>
