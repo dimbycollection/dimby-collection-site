@@ -82,7 +82,7 @@
 <body>
   <header>
     <!-- Logo et titre -->
-    <img src="images/logo.jpg" alt="Logo Dimby Collection">
+    <img src="logo.jpg" alt="Logo Dimby Collection">
     <h1>Dimby Collection</h1>
   </header>
   
